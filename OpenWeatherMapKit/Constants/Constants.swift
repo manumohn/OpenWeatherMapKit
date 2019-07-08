@@ -12,7 +12,7 @@ internal class Constants {
 
     internal class Endpoints {
         
-        static let kOpenWeatherMapApiEndPoint = "http://api.openweathermap.org/data/2.5"
+        static let kOpenWeatherMapApiEndPoint = "https://api.openweathermap.org/data/2.5"
 
         private init() {}
     }
